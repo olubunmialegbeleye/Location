@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LocationArticle</string>
+    <string name="get_last_loc_java">Get Last Known Location Java</string>
+    <string name="get_last_loc_kt">Get Last Known Location Kotlin</string>
+    <string name="request_loc_updates_java">Request Location Updates Java</string>
+    <string name="request_loc_updates_kt">Request Location Updates Kotlin</string>
+</resources>
